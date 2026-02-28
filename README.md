@@ -2,55 +2,39 @@
 Mapping ISO 27001 Controls to NIST CSF with aligned policy development examples
 
 
-# Project Overview
+📌 Project Overview
 
-This project presents a structured mapping between selected ISO/IEC 27001:2022 controls and the NIST Cybersecurity Framework (CSF), along with aligned policy development examples.
+This project demonstrates practical alignment between ISO/IEC 27001:2022 controls and the NIST Cybersecurity Framework (CSF), with supporting policy development examples.
 
-The objective of this work is to demonstrate practical understanding of cybersecurity governance by translating framework controls into operational security policies across three key domains:
-	•	Identity Management (ISO 27001 – 5.16)
-	•	Access Control (ISO 27001 – 5.15)
-	•	Asset Management (ISO 27001 – 5.9)
+The objective is to translate governance frameworks into operational security documentation, showing how controls are implemented in real organizational environments.
 
 ⸻
 
-# Framework Alignment
+🔍 Controls Covered
+	•	ISO 27001 – 5.16 Identity Management
+	•	ISO 27001 – 5.15 Access Control
+	•	ISO 27001 – 5.9 Asset Management
 
-The document maps ISO 27001 controls to relevant NIST CSF categories, including:
-	•	PR.AC-1 – Identity Management
-	•	PR.AC-3 – Access Enforcement
-	•	PR.AC-4 – Least Privilege
-	•	PR.AC-6 – Privileged Access Management
-	•	ID.AM-1 / ID.AM-2 – Asset Inventory
-	•	PR.PT-3 – Logical Access Control
-	•	PR.IP-3 – Configuration Management
-
-This alignment demonstrates how organizations can harmonize international standards with operational cybersecurity practices.
-
-⸻
-
-# Policy Development Areas
-
-The project includes drafted policies covering:
-	•	Identity lifecycle management (provisioning, modification, termination)
-	•	Role-based access control (RBAC)
-	•	Least privilege enforcement
-	•	Multi-factor authentication (MFA)
-	•	Asset inventory management and ownership accountability
-	•	Compliance and enforcement structures
-	•	Defined organizational responsibilities (IT Security, HR, Managers, End Users)
+Each control is mapped to relevant NIST CSF categories including:
+	•	PR.AC-1
+	•	PR.AC-3
+	•	PR.AC-4
+	•	PR.AC-6
+	•	ID.AM-1
+	•	ID.AM-2
+	•	PR.IP-3
 
 ⸻
 
-# Skills Demonstrated
-	•	ISO 27001 control interpretation
-	•	NIST CSF category mapping
-	•	Governance, Risk, and Compliance (GRC) analysis
-	•	Identity and Access Management (IAM) principles
-	•	Asset visibility and accountability structures
-	•	Policy drafting and documentation
+🛡 What This Project Demonstrates
+	•	Framework cross-mapping methodology
+	•	Policy drafting aligned to governance standards
+	•	Identity lifecycle enforcement
+	•	Role-based access control (RBAC) modeling
+	•	Asset visibility and accountability controls
+	•	Governance-to-operations translation
 
 ⸻
 
-# Purpose
+📄 Full Documentation
 
-This project reflects my ongoing focus on cybersecurity governance, structured risk management, and control implementation alignment across frameworks
