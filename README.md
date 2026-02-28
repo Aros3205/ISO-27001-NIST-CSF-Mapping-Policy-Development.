@@ -2,7 +2,7 @@
 Mapping ISO 27001 Controls to NIST CSF with aligned policy development examples
 
 
-Project Overview
+# Project Overview
 
 This project presents a structured mapping between selected ISO/IEC 27001:2022 controls and the NIST Cybersecurity Framework (CSF), along with aligned policy development examples.
 
@@ -13,7 +13,7 @@ The objective of this work is to demonstrate practical understanding of cybersec
 
 ⸻
 
-Framework Alignment
+# Framework Alignment
 
 The document maps ISO 27001 controls to relevant NIST CSF categories, including:
 	•	PR.AC-1 – Identity Management
@@ -28,7 +28,7 @@ This alignment demonstrates how organizations can harmonize international standa
 
 ⸻
 
-Policy Development Areas
+# Policy Development Areas
 
 The project includes drafted policies covering:
 	•	Identity lifecycle management (provisioning, modification, termination)
@@ -41,7 +41,7 @@ The project includes drafted policies covering:
 
 ⸻
 
-Skills Demonstrated
+# Skills Demonstrated
 	•	ISO 27001 control interpretation
 	•	NIST CSF category mapping
 	•	Governance, Risk, and Compliance (GRC) analysis
@@ -51,6 +51,6 @@ Skills Demonstrated
 
 ⸻
 
-Purpose
+# Purpose
 
 This project reflects my ongoing focus on cybersecurity governance, structured risk management, and control implementation alignment across frameworks
