@@ -39,3 +39,12 @@ Each control is mapped to relevant NIST CSF categories including:
 📄 Full Documentation
 
 [Full Documentation (pdf)](https://github.com/Aros3205/ISO-27001-NIST-CSF-Mapping-Policy-Development./blob/main/ISO-27001-NIST-CSF-Mapping-Policy-Development.pdf)
+
+
+## Disclaimer
+
+This project is an independent educational and research effort. It is not affiliated with, endorsed by, or officially connected to ISO, NIST, or any governing standards body.
+
+The mappings and interpretations provided are based on publicly available information and professional analysis. They are intended for educational and informational purposes only and should not be considered official guidance or a substitute for formal compliance consultation.
+
+ISO standards are copyrighted by the International Organization for Standardization (ISO). Users should obtain official standards documentation directly from ISO or authorized distributors.
