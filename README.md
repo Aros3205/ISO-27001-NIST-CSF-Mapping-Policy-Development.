@@ -38,4 +38,4 @@ Each control is mapped to relevant NIST CSF categories including:
 
 📄 Full Documentation
 
-[Full Documentation (pdf)](https://github.com/Aros3205/ISO-27001-NIST-CSF-Mapping-Policy-Development./blob/main/ISO-27001-NIST-CSF-Mapping-Policy-Development.)
+[Full Documentation (pdf)](https://github.com/Aros3205/ISO-27001-NIST-CSF-Mapping-Policy-Development./blob/main/ISO-27001-NIST-CSF-Mapping-Policy-Development.pdf)
